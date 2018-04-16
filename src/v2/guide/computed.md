@@ -18,7 +18,7 @@ order: 5
 
 所以，对于任何复杂逻辑，你都应当使用**计算属性**。
 
-### 基础例子
+### 基础例子(复制到https://jsfiddle.net/上显示似乎不正确)
 
 ``` html
 <div id="example">
